@@ -1,0 +1,12 @@
+{
+	"name": "express-sitemap",
+	"version": "0.0.1",
+	"description": "",
+	"keywords": ["express", "sitemap", "sitemap.xml"],
+	"repository": "git://github.com/jbrooksuk/express-sitemap.git",
+	"author": "James Brooks <jbrooksuk@me.com>",
+	"main": "index",
+	"devDependencies": {
+		"express": "*"
+	}
+}
